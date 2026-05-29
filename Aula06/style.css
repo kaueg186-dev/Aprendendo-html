@@ -1,0 +1,9 @@
+body {
+    background-color: darkgrey;
+}
+
+h1 {
+    background-color: aquamarine;
+    color: rgb(7, 32, 32);
+    border: 3px solid rgb(235, 223, 10);
+}
