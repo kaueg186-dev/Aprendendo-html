@@ -1,0 +1,15 @@
+body {
+    background-color: darkblue;
+}
+
+.h2-documento {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: white;
+}
+
+.p-documento{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: lightgray;
+}
